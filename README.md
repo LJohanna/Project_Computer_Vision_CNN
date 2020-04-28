@@ -1,0 +1,2 @@
+# Project_Computer_Vision_CNN
+Final project of a Deep Learning training: A game web application where two people are playing against each other, each one faking an emotion. We give the users an emotion among 5: sadness, happiness, surprise, fear and disgust. The two pictures are sent to a deep neural network where the architecture is based on FaceNet and use the Fer2013 Emotions DataSet (~ 35k pictures) and ~ 200 pictures we did from our classmates. The person faking best the emotion wins!
